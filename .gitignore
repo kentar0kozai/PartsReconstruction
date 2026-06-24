@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PoC / experiment outputs
+outputs/
+*.ply
+*.pcd
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Tooling / local (not part of the research project)
+.claude/
+.serena/
